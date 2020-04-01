@@ -1,0 +1,13 @@
+{
+  "name": "create-env-json",
+  "version": "1.0.0",
+  "description": "Create an environment file in JSON format",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Maurício Schmaedeck",
+  "license": "MIT",
+  "dependencies": {
+    "@actions/core": "^1.2.3",
+    "@actions/github": "^2.1.1"
+  }
+}
