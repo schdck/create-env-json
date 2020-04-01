@@ -1,6 +1,6 @@
 # create-env-json
 
-This action writes environment variables (or anything you want) to a JSON file that can be accessed for future steps.
+This action writes environment variables (or anything you want) to a JSON file that can be accessed by future steps.
 
 ## Inputs
 
